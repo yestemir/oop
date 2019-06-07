@@ -1,0 +1,19 @@
+package lab1;
+import java.util.Scanner;
+
+public class Lab1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Student s = new Student("NAME", 18110130);
+		
+		Scanner input = new Scanner(System.in);
+	//	String name = s.get_name().nextString();
+		
+       /*s.WriteLine(s.get_name());//output name
+        Console.WriteLine(s.get_id());
+        Console.WriteLine(s.Get_year(2018));*/
+
+	}
+
+}
